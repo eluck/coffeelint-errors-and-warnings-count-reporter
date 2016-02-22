@@ -1,5 +1,5 @@
 coffeelint-errors-and-warnings-count-reporter
-================================
+=============================================
 
 [![Dependency Status][depstat-image]][depstat-url]
 
